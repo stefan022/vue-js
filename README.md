@@ -54,5 +54,8 @@ pnpm dev
 pnpm build
 ```
 
+## Note
+- The history of all branches and commits is located on GitLab!
+
 ## Enjoy!
 Link: http://309n123.e2.mars-hosting.com
